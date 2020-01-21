@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://tiptalk.v.corez.kr/sitemap.xml
+Sitemap: https://tiptalk.yohan1002.com/sitemap.xml
