@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>팁톡</title><link>https://tiptalk.yohan1002.com</link><description></description><image><title>팁톡</title><url>https://tiptalk.yohan1002.com/res/img/icon/icon.png</url><link>https://tiptalk.yohan1002.com</link><description></description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Mon, 03 Feb 2020 11:38:18 +0900</pubDate><item><title>화장실 찌든 때 청소방법</title><pubDate>Fri, 08 Feb 2019 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2019/02/08/%ED%99%94%EC%9E%A5%EC%8B%A4-%EC%B0%8C%EB%93%A0%EB%95%8C-%EC%B2%AD%EC%86%8C/</link><guid>https://tiptalk.yohan1002.com/2019/02/08/%ED%99%94%EC%9E%A5%EC%8B%A4-%EC%B0%8C%EB%93%A0%EB%95%8C-%EC%B2%AD%EC%86%8C/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>청소</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201902/restroom.jpg" alt="화장실" width="1280" height="853" /></p>
+<title>팁톡</title><link>https://tiptalk.yohan1002.com</link><description></description><image><title>팁톡</title><url>https://tiptalk.yohan1002.com/res/img/icon/icon.png</url><link>https://tiptalk.yohan1002.com</link><description></description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Tue, 29 Sep 2020 17:33:09 +0900</pubDate><item><title>유튜브 미리보기 이미지 가져오기</title><pubDate>Sun, 27 Sep 2020 14:10:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2020/09/27/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2020/09/27/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>유틸리티</category><description><![CDATA[<h3>유튜브 미리보기 썸네일 이미지 추출기</h3>
+
+<div class="searchBox">
+	<input type="text" id="youtubeLink" class="searchInput" placeholder="유튜브 영상의 링크(url)을 입력하세요" />
+	<button type="button" id="runCrawl" class="searchButton">가져오기</button>
+</div>
+
+<hr />
+
+<p>유튜브에서는 동영상 미리보기를 위해 제공하는 썸에일 이미지는 다음과 같습니다.</p>
+
+<br />
+<ul class="clearfix">
+	<li>120x90: 동영상 커버, 시작, 중간, 끝지점 이미지 제공</li>
+	<li>320x180</li>
+	<li>480x360</li>
+	<li>640x480</li>
+	<li>고해상도 이미지(1280x720, 1920x1080)</li>
+</ul>
+<br />
+
+<p>하지만, 유튜브 사이트에서는 직접적으로 썸네일 이미지를 제공하고 있지 않아 불편합니다.</p>
+
+<p>상단의 입력폼에 <strong class="highlight-color">유튜브 동영상 링크</strong>를 입력한 후, <strong class="highlight-color">가져오기 버튼</strong>을 누르시면 동영상 미리보기를 위한 썸네일 이미지를 가져올 수 있습니다.</p>
+
+<div class="commentBox">
+	<p>유효한 유튜브 링크 형식</p>
+	<ul class="clearfix">
+		<li>- https://www.youtube.com/watch?v=ABCDEF</li>
+		<li>- https://www.youtube.com/embed/ABCDEF</li>
+		<li>- https://youtu.be/ABCDEF</li>
+	</ul>
+</div>
+
+<div id="printBox" class="printBox hide"></div>
+
+
+
+]]></description></item><item><title>화장실 찌든 때 청소방법</title><pubDate>Fri, 08 Feb 2019 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2019/02/08/%ED%99%94%EC%9E%A5%EC%8B%A4-%EC%B0%8C%EB%93%A0%EB%95%8C-%EC%B2%AD%EC%86%8C/</link><guid>https://tiptalk.yohan1002.com/2019/02/08/%ED%99%94%EC%9E%A5%EC%8B%A4-%EC%B0%8C%EB%93%A0%EB%95%8C-%EC%B2%AD%EC%86%8C/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201902/restroom.jpg" alt="화장실" width="1280" height="853" /></p>
 <p>화장실 청소</p>
 <p>화장실 청소는 크게 세면대, 수도꼭지, 타일, 환풍기 영역으로 살펴볼 수 있습니다.</p>
 <p>더 추가하자만 곰팡이 제거가 있겠네요.</p>
@@ -97,8 +134,7 @@
 <p>필요하다면 나사를 이용해서 필터 뒷면도 함께 분리해서 청소한다. </p>
 </li>
 </ul>
-<p>관련링크: <a href="https://comterman.tistory.com/1845">환풍기 분리 후 청소</a></p>]]></description></item><item><title>손, 옷에 묻은 잉크 지우는 법</title><pubDate>Thu, 07 Feb 2019 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2019/02/07/%EC%86%90-%EC%98%B7-%EC%9E%89%ED%81%AC-%EC%A7%80%EC%9A%B0%EB%8A%94-%EB%B2%95/</link><guid>https://tiptalk.yohan1002.com/2019/02/07/%EC%86%90-%EC%98%B7-%EC%9E%89%ED%81%AC-%EC%A7%80%EC%9A%B0%EB%8A%94-%EB%B2%95/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>세탁</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201902/title_ink.png" alt="잉크" width="1280" height="936" /></p>
+<p>관련링크: <a href="https://comterman.tistory.com/1845">환풍기 분리 후 청소</a></p>]]></description></item><item><title>손, 옷에 묻은 잉크 지우는 법</title><pubDate>Thu, 07 Feb 2019 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2019/02/07/%EC%86%90-%EC%98%B7-%EC%9E%89%ED%81%AC-%EC%A7%80%EC%9A%B0%EB%8A%94-%EB%B2%95/</link><guid>https://tiptalk.yohan1002.com/2019/02/07/%EC%86%90-%EC%98%B7-%EC%9E%89%ED%81%AC-%EC%A7%80%EC%9A%B0%EB%8A%94-%EB%B2%95/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201902/title_ink.png" alt="잉크" width="1280" height="936" /></p>
 <h2>손이나 옷에 잉크가 묻었나요?</h2>
 <p>몸이나 옷에 잉크가 묻어서 짜증나셨던 경험이 있지 않으신가요?  </p>
 <p>몸에 잉크가 묻었다면 잘 씻겨지진 않지만 그래도 비누와 때타올로 빡빡 문질러서 씻곤 합니다.  </p>
@@ -213,8 +249,7 @@
 <li>
 <p>물로 헹군후 세탁한다.</p>
 </li>
-</ul>]]></description></item><item><title>칼 가위 갈기</title><pubDate>Thu, 22 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/22/%EC%B9%BC-%EA%B0%80%EC%9C%84-%EA%B0%88%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/22/%EC%B9%BC-%EA%B0%80%EC%9C%84-%EA%B0%88%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_9.jpg" alt="칼 가위 갈기" width="820" height="547" /></p>
+</ul>]]></description></item><item><title>칼 가위 갈기</title><pubDate>Thu, 22 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/22/%EC%B9%BC-%EA%B0%80%EC%9C%84-%EA%B0%88%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/22/%EC%B9%BC-%EA%B0%80%EC%9C%84-%EA%B0%88%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_9.jpg" alt="칼 가위 갈기" width="820" height="547" /></p>
 <p>가정에서 칼 날 가는 방법</p>
 <p>가정에서 칼이나 가위는 다양한 용도로 활용된다.</p>
 <p>특히나 우리나라의 경우 고기를 자르거나 할 때도 칼이나 가위를 사용하는 경우가 많다.</p>
@@ -243,9 +278,7 @@
 <img src="https://tiptalk.yohan1002.com/res/img/posts/201811/mixer.png" alt="믹서기" width="174" height="320" />
 <img src="https://tiptalk.yohan1002.com/res/img/posts/201811/knife.jpg" alt="칼" width="300" height="291" /></p>
 <p>&lt;참고자료&gt;</p>
-<p>유튜브상에 올려져 있는 칼날 가는 방법 : <a href="https://www.youtube.com/watch?v=Cre-Sjn_ZoM">https://www.youtube.com/watch?v=Cre-Sjn_ZoM</a></p>
-<p></p>]]></description></item><item><title>아이들 낙서 지우기</title><pubDate>Tue, 20 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/20/%EC%95%84%EC%9D%B4%EB%93%A4-%EB%82%99%EC%84%9C-%EC%A7%80%EC%9A%B0%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/20/%EC%95%84%EC%9D%B4%EB%93%A4-%EB%82%99%EC%84%9C-%EC%A7%80%EC%9A%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>청소</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_8.jpg" alt="아이들 낙서 지우기" width="820" height="547" /></p>
+<p>유튜브상에 올려져 있는 칼날 가는 방법 : <a href="https://www.youtube.com/watch?v=Cre-Sjn_ZoM">https://www.youtube.com/watch?v=Cre-Sjn_ZoM</a></p>]]></description></item><item><title>아이들 낙서 지우기</title><pubDate>Tue, 20 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/20/%EC%95%84%EC%9D%B4%EB%93%A4-%EB%82%99%EC%84%9C-%EC%A7%80%EC%9A%B0%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/20/%EC%95%84%EC%9D%B4%EB%93%A4-%EB%82%99%EC%84%9C-%EC%A7%80%EC%9A%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_8.jpg" alt="아이들 낙서 지우기" width="820" height="547" /></p>
 <p>늘 이쁘기만한 우리 아이들 </p>
 <p>벽에 낙서를 하거나 혹은 바닥에 낙서를 하면 속상할 때가 많다.</p>
 <p>가장 속상한건  지웠는데 번져서 더 보기  싫어진 경우 ㅡㅡ;;</p>
@@ -264,9 +297,7 @@
 <h2>3. 수성 싸인펜</h2>
 <p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/water_pen.jpg" alt="수성펜" width="320" height="215" /></p>
 <p>물에 중성세제를 풀어서 거품을 낸 뒤 스펀지 등으로 청소한다. </p>
-<p>민감한 분위가 아니라면 물걸레 질로도 간단하게 할 수 도 있다.</p>
-<p></p>]]></description></item><item><title>줄어든 스웨터 살리기</title><pubDate>Mon, 19 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/19/%EC%A4%84%EC%96%B4%EB%93%A0-%EC%8A%A4%EC%9B%A8%ED%84%B0-%EC%82%B4%EB%A6%AC%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/19/%EC%A4%84%EC%96%B4%EB%93%A0-%EC%8A%A4%EC%9B%A8%ED%84%B0-%EC%82%B4%EB%A6%AC%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>빨래</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_7.jpg" alt="줄어든 스웨터 살리기" width="820" height="615" /></p>
+<p>민감한 분위가 아니라면 물걸레 질로도 간단하게 할 수 도 있다.</p>]]></description></item><item><title>줄어든 스웨터 살리기</title><pubDate>Mon, 19 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/19/%EC%A4%84%EC%96%B4%EB%93%A0-%EC%8A%A4%EC%9B%A8%ED%84%B0-%EC%82%B4%EB%A6%AC%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/19/%EC%A4%84%EC%96%B4%EB%93%A0-%EC%8A%A4%EC%9B%A8%ED%84%B0-%EC%82%B4%EB%A6%AC%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_7.jpg" alt="줄어든 스웨터 살리기" width="820" height="615" /></p>
 <p>줄어들거나 오그라든 스웨터, 니트 살리는 방법</p>
 <ol>
 <li>단계 미지근한 물과 암모니아를 준비한다. 암모니아를 구하기 어렵다면 식초나 린스, 섬유유연제를 사용한다.</li>
@@ -291,9 +322,7 @@
 <p>스팀 다리미가 있다면 다시금 당겨주면서 다림질을 하자.</p>
 </li>
 </ol>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/sweater.jpg" alt="스웨터" width="320" height="216" /></p>
-<p></p>]]></description></item><item><title>카펫트 청소</title><pubDate>Tue, 13 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/13/%EC%B9%B4%ED%8E%AB%ED%8A%B8-%EC%B2%AD%EC%86%8C/</link><guid>https://tiptalk.yohan1002.com/2018/11/13/%EC%B9%B4%ED%8E%AB%ED%8A%B8-%EC%B2%AD%EC%86%8C/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>청소</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_6.jpg" alt="카펫트 청소" width="820" height="548" /></p>
+<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/sweater.jpg" alt="스웨터" width="320" height="216" /></p>]]></description></item><item><title>카펫트 청소</title><pubDate>Tue, 13 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/13/%EC%B9%B4%ED%8E%AB%ED%8A%B8-%EC%B2%AD%EC%86%8C/</link><guid>https://tiptalk.yohan1002.com/2018/11/13/%EC%B9%B4%ED%8E%AB%ED%8A%B8-%EC%B2%AD%EC%86%8C/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_6.jpg" alt="카펫트 청소" width="820" height="548" /></p>
 <h2>1. 카펫트 자국 제거하기</h2>
 <p>카페트 위에 의자를 올려두거나 가구를 올려두게 되면 카펫트 위에 자국이 남게 된다. </p>
 <p>이를 때 그야 말로 대략 난감! 순모라는 털을 세워두면 해결되지만 보통 합성소재가 많다.</p>
@@ -316,9 +345,7 @@
 <p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/paper.jpg" alt="신문" width="320" height="213" /></p>
 <h2>4. 색감 살리면서 청소하기</h2>
 <p>청소기로 청소하기 전 카펫트 위에 소금을 올려둔 뒤에 청소기로 빨아 들이면 먼지도 더 청소도 더 깨끗이 되고 색상도 살아난다고 한다.</p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/salt_2.jpg" alt="소금" width="320" height="213" /></p>
-<p></p>]]></description></item><item><title>숙취에 좋은 음식</title><pubDate>Mon, 12 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/12/%EC%88%99%EC%B7%A8%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%9D%8C%EC%8B%9D/</link><guid>https://tiptalk.yohan1002.com/2018/11/12/%EC%88%99%EC%B7%A8%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%9D%8C%EC%8B%9D/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><category>음식</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_5.jpg" alt="숙취에 좋은 음식" width="820" height="615" /></p>
+<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/salt_2.jpg" alt="소금" width="320" height="213" /></p>]]></description></item><item><title>숙취에 좋은 음식</title><pubDate>Mon, 12 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/12/%EC%88%99%EC%B7%A8%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%9D%8C%EC%8B%9D/</link><guid>https://tiptalk.yohan1002.com/2018/11/12/%EC%88%99%EC%B7%A8%EC%97%90-%EC%A2%8B%EC%9D%80-%EC%9D%8C%EC%8B%9D/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_5.jpg" alt="숙취에 좋은 음식" width="820" height="615" /></p>
 <p>숙취해소 음식에 있어서 핵심은 알코올 분해와 당분이다. </p>
 <p>그에 따라 대표적은 음식으로느 해독 및 간보호에 좋은 콩나물, 북어, 그 외에 당이 풍부한 꿀, 핫초코, 달걀, 녹차 등이 있다</p>
 <h2>1. 콩나물 국, 북어국</h2>
@@ -338,10 +365,7 @@
 <p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/green_tea.jpg" alt="녹차" width="320" height="240" /></p>
 <p>개인적으로 가장 추천하는 코스는 음주한 날 자기전 핫초코 한잔을 마시고, 수면을 취한 뒤 다음날 아침은 꿀물 한잔. </p>
 <p>아침 식사는 점심식사로 콩나물 국밥, 이때 수란을 곁들이면 더욱 좋다. </p>
-<p>마지막으로 식사후엔 녹차한잔</p>
-<p></p>
-<p></p>]]></description></item><item><title>숙취예방을 위한 음주상식</title><pubDate>Sun, 11 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/11/%EC%88%99%EC%B7%A8%EC%98%88%EB%B0%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%8C%EC%A3%BC%EC%83%81%EC%8B%9D/</link><guid>https://tiptalk.yohan1002.com/2018/11/11/%EC%88%99%EC%B7%A8%EC%98%88%EB%B0%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%8C%EC%A3%BC%EC%83%81%EC%8B%9D/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_4.jpg" alt="숙취예방을 위한 음주상식" width="820" height="562" /></p>
+<p>마지막으로 식사후엔 녹차한잔</p>]]></description></item><item><title>숙취예방을 위한 음주상식</title><pubDate>Sun, 11 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/11/%EC%88%99%EC%B7%A8%EC%98%88%EB%B0%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%8C%EC%A3%BC%EC%83%81%EC%8B%9D/</link><guid>https://tiptalk.yohan1002.com/2018/11/11/%EC%88%99%EC%B7%A8%EC%98%88%EB%B0%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9D%8C%EC%A3%BC%EC%83%81%EC%8B%9D/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_4.jpg" alt="숙취예방을 위한 음주상식" width="820" height="562" /></p>
 <p>과도한 술은 자제하는 것이 좋지만 음주란 것이 꼭 본인이 원해서 발생하는 것이 아니다. </p>
 <p>거기에 숙취까지 더한다면 짜증지수는 그야말로 하늘도 뚫을듯 하다.</p>
 <p>이런 숙취로 부터 벗어나는 방법은 없을까?</p>
@@ -373,8 +397,7 @@
 <h2>5. 음주시 안주를 먹을 땐, 단 음식 위주로 먼저 먹는다.</h2>
 <p>: 사탕과 동일하게 간장의 피로를 덜어주고 당분의 공급을 위해서다. </p>
 <p>과음시에 당분이 부족하면 알코올의 해독도 힘들어질 뿐만 아니라 저혈당으로 인해 허기짐을 느끼게되고, 이로 인해 맵고 짠 자극적인 고칼리 음식을 섭취하게 되어 잘못하면 간에 무리를 줄 수 있다.</p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/fruit.jpg" alt="과일" width="320" height="213" /></p>]]></description></item><item><title>커피 건강하게 즐기기</title><pubDate>Sat, 10 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/10/%EC%BB%A4%ED%94%BC-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/10/%EC%BB%A4%ED%94%BC-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_3.jpg" alt="커피 건강하게 즐기기" width="820" height="538" /></p>
+<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/fruit.jpg" alt="과일" width="320" height="213" /></p>]]></description></item><item><title>커피 건강하게 즐기기</title><pubDate>Sat, 10 Nov 2018 09:00:00 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/10/%EC%BB%A4%ED%94%BC-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EA%B8%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/10/%EC%BB%A4%ED%94%BC-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B2%8C-%EC%A6%90%EA%B8%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>건강</category><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_3.jpg" alt="커피 건강하게 즐기기" width="820" height="538" /></p>
 <p>우리나라의 다수의 성인들이 즐겨 마시는 커피</p>
 <p>커피의 효능은 연구에 따라 다양한 효능이 있다고 알려져 있다.</p>
 <p>그중 대표적으로 잘 알려진 효능은 다음과 같다.</p>
@@ -404,9 +427,7 @@
 <p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/cheese.jpg" alt="치즈" width="320" height="213" />
 <img src="https://tiptalk.yohan1002.com/res/img/posts/201811/coffee.jpg" alt="커피" width="320" height="211" /></p>
 <p>커피를 많이 마시게 되면 커피가 체내의 철분흡수를 막기 때문에 빈혈이 생기는데, 치즈와 함께 마실 경우 빈혈을 방지해줄 뿐만 아니라 속스림등도 예방할 수 있다. </p>
-<p>그리고 치즈에는 영양성분이 골고루 갖춰져 있어 단백질을 분해시켜 커피의 맛을 더욱 좋아지게 만들어 주며, 소화 능력을 향상시켜준다.</p>
-<p></p>]]></description></item><item><title>찌든 때 빨래 잘하는 방법</title><pubDate>Fri, 09 Nov 2018 14:16:47 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/09/%EC%B0%8C%EB%93%A0-%EB%95%8C-%EB%B9%A8%EB%9E%98%EC%9E%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</link><guid>https://tiptalk.yohan1002.com/2018/11/09/%EC%B0%8C%EB%93%A0-%EB%95%8C-%EB%B9%A8%EB%9E%98%EC%9E%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>빨래</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_2.jpg" alt="찌든 때 빨래 잘하는 방법" width="820" height="547" /></p>
+<p>그리고 치즈에는 영양성분이 골고루 갖춰져 있어 단백질을 분해시켜 커피의 맛을 더욱 좋아지게 만들어 주며, 소화 능력을 향상시켜준다.</p>]]></description></item><item><title>찌든 때 빨래 잘하는 방법</title><pubDate>Fri, 09 Nov 2018 14:16:47 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/09/%EC%B0%8C%EB%93%A0-%EB%95%8C-%EB%B9%A8%EB%9E%98%EC%9E%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</link><guid>https://tiptalk.yohan1002.com/2018/11/09/%EC%B0%8C%EB%93%A0-%EB%95%8C-%EB%B9%A8%EB%9E%98%EC%9E%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_2.jpg" alt="찌든 때 빨래 잘하는 방법" width="820" height="547" /></p>
 <h1>빨래 고수들만 아는 빨래 잘하는 방법</h1>
 <h2>1. 찌든 때 제거</h2>
 <p>와이셔츠의 목 부위나 손목 등에 묻은 찌든 때의 경우 때가 잘 지지 않는다 특히 와이셔츠의 목 뒤에 묻은 찌든 때는 아무리 세탁기를 돌려도 깨끗하게 세탁되지 않는다. 그렇다고 그냥 입고나가기엔 목 뒤 때가 보일까 싶어 은근 신경쓰인다. 이때 빨래를 깨끗이하는 방법</p>
@@ -428,9 +449,7 @@
 <h2>4. 색바랜 옷</h2>
 <p>색 바랜 옷의 경우 빨래를 하기전 소금으로 애벌 빨래를 해주면 색이 오래가고 선명해지는 듯한 효과가 있다.</p>
 <p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/salt.jpg" alt="소금" width="249" height="202" /> </p>
-<p>그래서 새옷의 경우 처음 빨래할 때 소금으로 애벌 빨래를 해주면 좋다. 대야에 물을 조금 붓고 소금 한 줌 정도를 살살 문질러서 헹궈준뒤에 빨래를 하면된다. </p>
-<p></p>]]></description></item><item><title>스티커 자국 제거하기</title><pubDate>Thu, 08 Nov 2018 18:14:47 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/08/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%9E%90%EA%B5%AD-%EC%A0%9C%EA%B1%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/08/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%9E%90%EA%B5%AD-%EC%A0%9C%EA%B1%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활</category><category>청소</category><description><![CDATA[<p></p>
-<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_1.jpg" alt="스티커 자국 제거" width="820" height="547" /></p>
+<p>그래서 새옷의 경우 처음 빨래할 때 소금으로 애벌 빨래를 해주면 좋다. 대야에 물을 조금 붓고 소금 한 줌 정도를 살살 문질러서 헹궈준뒤에 빨래를 하면된다. </p>]]></description></item><item><title>스티커 자국 제거하기</title><pubDate>Thu, 08 Nov 2018 18:14:47 +0900</pubDate><link>https://tiptalk.yohan1002.com/2018/11/08/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%9E%90%EA%B5%AD-%EC%A0%9C%EA%B1%B0/</link><guid>https://tiptalk.yohan1002.com/2018/11/08/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%9E%90%EA%B5%AD-%EC%A0%9C%EA%B1%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>생활상식</category><description><![CDATA[<p><img src="https://tiptalk.yohan1002.com/res/img/posts/201811/title_top_1.jpg" alt="스티커 자국 제거" width="820" height="547" /></p>
 <h1>스티커 자국 제거</h1>
 <p>스티커를 때고 나면 남아있는 스티커 자국 일명 끈끈이</p>
 <p>이걸 남겨두면 끈적끈적의 찝찝함과 각종 먼지가 달라 붙어 깊은 빡침으로 돌아옵니다.</p>
@@ -480,7 +499,6 @@
 <h2>10. 기타</h2>
 <p>뜨거운 물에 담둬서 끈끈이를 녹이거나 불려서 제가하는 방법으로 이 역시 큰 부작용은 없습니다.</p>
 <p>용액의 이용한 대부분의 방법의 경우 아세톤, 알코올 성분을 이용한 방법이 많습니다. </p>
-<p>사용하시는 제품(에프킬라, 썬크림 등)에 아세톤, 알코올 성분이 포함되어 있다면 정도의 차이는 있지만 아세톤, 알코올을 이용한 방법에서 발생할 수 있는 문제는 동일하게 발생할 수 있습니다.  현명하게 판단하셔서 스티커 자국을 제거하세요 </p>
-<p></p>]]></description></item>
+<p>사용하시는 제품(에프킬라, 썬크림 등)에 아세톤, 알코올 성분이 포함되어 있다면 정도의 차이는 있지만 아세톤, 알코올을 이용한 방법에서 발생할 수 있는 문제는 동일하게 발생할 수 있습니다.  현명하게 판단하셔서 스티커 자국을 제거하세요 </p>]]></description></item>
 </channel>
 </rss>
